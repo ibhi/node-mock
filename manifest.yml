@@ -1,0 +1,4 @@
+---
+applications:
+- name: node-mock
+  command: node index.js
